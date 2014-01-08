@@ -1,7 +1,7 @@
 # DynamoDB Example
 
-requires  
-http://aws.amazon.com/sdkfornodejs/  
+requires
+http://aws.amazon.com/sdkfornodejs/
 
 - - -
 
